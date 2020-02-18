@@ -15,8 +15,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
- "Paloma!" = create_an_array.pop
- p create_an_array
+ "Paloma!" = remove_element_from_end_of_array.pop
+ p remove_element_from_end_of_array
  p "Paloma"
 end
 
