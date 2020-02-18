@@ -16,8 +16,6 @@ end
 
 def remove_element_from_end_of_array(array)
  "Paloma!" = remove_element_from_end_of_array.pop
- p remove_element_from_end_of_array
- p "Paloma"
 end
 
 def remove_element_from_start_of_array(array)
