@@ -16,6 +16,7 @@ end
 
 def remove_element_from_end_of_array(array)
  "arrays!" = create_an_array.pop
+ p = create_an_array
 end
 
 def remove_element_from_start_of_array(array)
