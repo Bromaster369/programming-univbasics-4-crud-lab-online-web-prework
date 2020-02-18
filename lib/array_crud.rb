@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["paloma", "Max", "Vinci", "Bambe"]
+  ["Paloma", "Max", "Vinci", "Bambe"]
 end
 
 def add_element_to_end_of_array(array, element)
@@ -15,13 +15,13 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
- "arrays!" = create_an_array.pop
+ "Paloma!" = create_an_array.pop
  p create_an_array
- p "arrays!"
+ p "Paloma"
 end
 
 def remove_element_from_start_of_array(array)
-  paloma = create_an_array.shift
+  
 end
 
 def retrieve_element_from_index(array, index_number)
